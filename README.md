@@ -1,14 +1,3 @@
----
-title: AI NIDS Student Project
-emoji: 🛡️
-colorFrom: blue
-colorTo: green
-sdk: streamlit
-sdk_version: 1.39.0
-app_file: app.py
-pinned: false
----
-
 # 🛡️ AI-Based Network Intrusion Detection System (Student Project)
 
 This project demonstrates how to use **Machine Learning (Random Forest)** and **Generative AI (Grok)** to detect and explain network attacks (specifically DDoS).
